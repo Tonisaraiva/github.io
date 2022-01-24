@@ -1,0 +1,42 @@
+
+  ___ ___ _  _   _   _      ___ _  _  _____      _____   _____      ___  _ 
+ | __|_ _| \| | /_\ | |    / __| || |/ _ \ \    / /   \ / _ \ \    / / \| |
+ | _| | || .` |/ _ \| |__  \__ \ __ | (_) \ \/\/ /| |) | (_) \ \/\/ /| .` |
+ |_| |___|_|\_/_/ \_\____| |___/_||_|\___/ \_/\_/ |___/ \___/ \_/\_/ |_|\_|
+                                                                           
+
+❌
+title: the final showdown
+date: xx-xx-xxxx
+time: xxxx
+message: everything that begins will come to an end
+❌
+
+We know about `ls` and how to use it to list the contents of the current folder. You can also hand it a path to list the contents of another file.
+
+`ls logs` will print out the contents of logs.
+
+👉 Try it!
+
+As you can see, the contents of the logs directory was printed to the standard output. In this case the terminal.
+
+You can redirect this output to a file with the `>` symbol (known as the redirect operator).
+
+`ls > file-name.txt` will write the output of `ls` to a file called `file-name.txt`
+
+👉 List the contents of the /logs folder and write it to a file called `list.txt`
+👉 Print the contents of `list.txt`
+
+Now that we have saved the list of items in `logs` to a file, we can perform other operations on them. 
+
+I have it on good authority that theres a secrect code hidden in the file names.
+
+As well as redirecting to a file, we can pipe to a command using `|`. They work very similarly except pipe will not write to a file and is used to hand the output to another command.
+
+The `rev` command will reverse lines of text.
+
+You can pipe the output of `cat` to the `rev` like this: `cat file.txt | rev`. 
+
+👉 reverse list.txt and break the code to find your next instruction.
+
+

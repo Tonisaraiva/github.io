@@ -1,0 +1,36 @@
+
+  _____ ___  ___   ___ ___ ___ ___ ___ _____ 
+ |_   _/ _ \| _ \ / __| __/ __| _ \ __|_   _|
+   | || (_) |  _/ \__ \ _| (__|   / _|  | |  
+   |_| \___/|_|   |___/___\___|_|_\___| |_|  
+                                             
+
+❌
+Secret Message:
+
+date - 15/2/20
+time - 0600
+location - Mouse Mat HQ
+event - TOTAL DESTRUCTION
+
+The owl is in the cucumber...
+❌
+
+
+Hmm, this is interesting. Seems as though theres something planned for the 15th of Febuary but I've not heard anything from head office. I think something is afoot. 
+
+I remember seeing some folders named with dates, perhaps there's some more info in one of them...
+
+Using the command `ls -a` we managed to find this secret file, did you also notice the . and .. ?
+
+. is a link to the folder you are in, .. is a link to the folder above.
+
+To change directory up a folder (back to GAME) you can use `cd ..`
+
+👉 1) Change directory up a folder back to /GAME
+
+👉 2) Once there look for a folder which matches the date in the secret message
+
+👉 3) cd into the matching folder and print the contents of README.txt
+
+

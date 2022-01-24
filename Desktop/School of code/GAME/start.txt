@@ -1,0 +1,16 @@
+
+  _    _             ___                              _         
+ | |  (_)_ _  ___   / __|___ _ __  _ __  __ _ _ _  __| |___ _ _ 
+ | |__| | ' \/ -_) | (__/ _ \ '  \| '  \/ _` | ' \/ _` / -_) '_|
+ |____|_|_||_\___|  \___\___/_|_|_|_|_|_\__,_|_||_\__,_\___|_|  
+                                                                
+
+The year is 2020, for decades now the computer mouse has become more and more dominant in man to machine communication. So much so, in fact, that many people have forgotten the pure and ancient skill of command line navigation that our for-fathers handed down to us.
+
+Welcome to the command line comrade. My name is Colonel Qwerty and in this series of challenges I will teach you the ways of the command line.
+
+Once you complete your training you will be in an elite group of high performance computer users ready to use your skills in the fight against pointless clicks, endless menu navigation and the dreaded drag and drop.
+
+Anything enclosed in `` is a command that you can write in the terminal.
+
+👉 Next: `cat next.txt` to start basic training.

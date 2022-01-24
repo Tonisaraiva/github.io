@@ -1,0 +1,29 @@
+
+  _____ ___  _   _  ___ _  _ 
+ |_   _/ _ \| | | |/ __| || |
+   | || (_) | |_| | (__| __ |
+   |_| \___/ \___/ \___|_||_|
+                             
+
+We've just used `mkdir` to make a folder called evidence and have moved PLANS_AND_LOGS into it. Let's now make a file called README.txt so that if anything happens to us, people will know what the folder is for.
+
+To make a file we can use the command `touch` followed by the name of the file so in our case we will write `touch README.txt`.
+
+👉 Change directory into /EVIDENCE 
+👉 create README.txt
+👉 list contents of /EVIDENCE to prove you have made README.txt
+
+Now that we have made a text file we can add text to it by using the command line text editor `nano`.
+
+`nano README.txt` will open up the editor and you will be able to add text. You can't use your mouse to navigate so you will have to use your keyboard.
+
+👉 open README.txt in the nano editor
+👉 add a title - "this folder contains selected evidence for use in the investigation"
+👉 save with ctr + o
+👉 press enter to confirm file name
+👉 exit with ctr + x
+
+👉 navigate to GAME/14-1-10/1900 and read index.txt for your next instruction
+
+
+

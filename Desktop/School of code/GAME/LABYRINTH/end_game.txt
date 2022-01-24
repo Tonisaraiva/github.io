@@ -1,0 +1,19 @@
+  
+  ___ _  _ ___     ___   _   __  __ ___ 
+ | __| \| |   \   / __| /_\ |  \/  | __|
+ | _|| .` | |) | | (_ |/ _ \| |\/| | _| 
+ |___|_|\_|___/   \___/_/ \_\_|  |_|___|
+                                        
+NEARLY THERE!
+
+We can search documents with a command called `grep`. 
+
+The syntax is: `grep option "pattern" file`
+
+Use the `-c` option to count on how many lines the pattern occurs.
+
+To count on how many lines "hello" occurs in a file called greeting.txt we would write `grep -c "hello" greeting.txt`
+
+👉 1) Use grep to count the lines that contain "0" in searchme.txt
+
+👉 2) Navigate to the log folder of the number that you get.

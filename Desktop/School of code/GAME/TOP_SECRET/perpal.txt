@@ -1,0 +1,13 @@
+
+  ___ ___ ___ ___  _   _    
+ | _ \ __| _ \ _ \/_\ | |   
+ |  _/ _||   /  _/ _ \| |__ 
+ |_| |___|_|_\_|/_/ \_\____|
+                                                 
+Success! ✅
+
+Well done, you've found the file and printed it but unfortunatley, this file was just a decoy. The real interesting stuff lies in a REALLY secret file.
+
+Files that start with a dot (.) are hidden from a standard `ls` command. You can view all files, including hidden files that start with a dot, by using the option `-a` after you write `ls` like so `ls -a`.
+
+👉 See if you can find any secret files using `ls -a`. If you find one, print the contents for the next instruction.

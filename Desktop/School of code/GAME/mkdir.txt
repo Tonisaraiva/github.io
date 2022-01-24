@@ -1,0 +1,27 @@
+
+  __  __ _  _____ ___ ___ 
+ |  \/  | |/ /   \_ _| _ \
+ | |\/| | ' <| |) | ||   /
+ |_|  |_|_|\_\___/___|_|_\
+                          
+
+So far we have used these commands:
+
+- `cat`
+- `cd`
+- `pwd`
+- `ls`
+- `mv`
+
+Take a moment to remember what each of then do.
+
+We just moved the plans and logs to this folder but we may soon be collecting more evidence. Lets make a folder that we can keep all the interesting things we find in.
+
+The command `mkdir` (make directory) makes us a folder in the current working directory.
+
+👉 First, type in `mkdir EVIDENCE` to make a folder called EVIDENCE.
+
+👉 Then, move PLANS_AND_LOGS into EVIDENCE using `mv`
+
+👉 Finally, read the file touch.txt for your next instruction.
+

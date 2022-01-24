@@ -1,0 +1,20 @@
+  ___          _      _____         _      _           
+ | _ ) __ _ __(_)__  |_   _| _ __ _(_)_ _ (_)_ _  __ _ 
+ | _ \/ _` (_-< / _|   | || '_/ _` | | ' \| | ' \/ _` |
+ |___/\__,_/__/_\__|   |_||_| \__,_|_|_||_|_|_||_\__, |
+                                                 |___/ 
+
+It's dark here on the command line, and sometimes disorienting. Luckily there are a couple of commands that can help us out.
+
+To see where we are we can use `pwd` which stands for print working directory. `pwd` prints the path of the current folder you are in.
+
+👉 1) Try it! Your path should be something like: Users/me/random-junk/GAME
+
+Now we know where we are, lets see what we can find here. The command `ls`, which stands for list, is used to list the contents of the current folder. 
+
+👉 2) Try it! You should be able to see the files and folders that are in the folder GAME.
+
+You can see a few things in the folder and we've already read start.txt and next.txt
+
+👉 3) Finally, print the contents of step_3.txt for your next instruction. Can you remember how? (hint: meow...)
+

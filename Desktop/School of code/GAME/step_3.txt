@@ -1,0 +1,24 @@
+
+  ___ _              ____
+ / __| |_ ___ _ __  |__ /
+ \__ \  _/ -_) '_ \  |_ \
+ |___/\__\___| .__/ |___/
+             |_|         
+
+🎉Congratulations!🎉
+
+We can now...
+- read the contents of files with `cat`
+- print your current working directory with `pwd`
+- list the contents of you current directory with `ls`
+
+We've spent enough time in this folder it's time for a change. To change directory (folder), we can use the `cd` command. `cd` followed by a path takes us from where we are to the new location.
+
+Let's have a look at whats in this intriguing TOP_SECRET folder. Seeing as we are in the folder which contains the TOP_SECRET folder, we need only put its name and not the full path.
+
+👉 1) ls to list the contents of current folder
+👉 2) `cd` in the the folder `TOP_SECRET` 
+👉 3) print your working directory to prove that we've changed folders
+👉 4) List the contents of that folder
+👉 5) Print the contents of the file that is spelt wrong for your next instruction
+
